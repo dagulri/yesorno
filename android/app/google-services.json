@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "704370742696",
+    "firebase_url": "https://yesorno-89015.firebaseio.com",
+    "project_id": "yesorno-89015",
+    "storage_bucket": "yesorno-89015.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704370742696:android:6669317161102925dfb99d",
+        "android_client_info": {
+          "package_name": "akasakaro.yesorno"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "704370742696-bsv08tbkngkfr75duuellsppf9s1oblt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOfrCwXJDRXjUccy29gXMWVJzs3VIPZUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "704370742696-bsv08tbkngkfr75duuellsppf9s1oblt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "704370742696-vjn6h3g2mjpk9qc10ks40u1hteh8hqed.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "akasakaro.yesorno"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
